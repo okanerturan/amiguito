@@ -31,7 +31,7 @@ built entirely in bash with unicode art and ANSI colors. no dependencies require
 ## install
 
 ```bash
-git clone https://github.com/okturan/amiguito.git
+git clone https://github.com/okanerturan/amiguito.git
 cd amiguito
 bash install.sh
 ```
